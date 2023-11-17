@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/21 20:12:31.745.pas,C:\Users\Aluno\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadUser.pas</Transaction>
+    <Transaction>2023/09/21 20:12:31.745.dfm,C:\Users\Aluno\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadUser.dfm</Transaction>
+    <Transaction>2023/09/21 20:13:38.001.dproj,C:\Users\Aluno\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Aluno\Desktop\MeuProjeto\teste\Uprojeto.dproj</Transaction>
+    <Transaction>2023/09/28 19:01:32.452.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmUsuario.pas</Transaction>
+    <Transaction>2023/09/28 19:01:32.452.dfm,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmUsuario.dfm</Transaction>
+    <Transaction>2023/10/10 19:06:13.664.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\Classes\UPessoa.pas</Transaction>
+    <Transaction>2023/10/17 19:18:00.271.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\Classes\UPais.pas</Transaction>
+    <Transaction>2023/10/17 19:52:31.194.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\Classes\UCliente.pas</Transaction>
+    <Transaction>2023/10/26 19:17:42.159.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\Classes\UEstado.pas</Transaction>
+    <Transaction>2023/10/26 19:32:46.477.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadPais.pas</Transaction>
+    <Transaction>2023/10/26 19:32:46.477.dfm,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadPais.dfm</Transaction>
+    <Transaction>2023/10/26 20:43:49.312.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadEstado.pas</Transaction>
+    <Transaction>2023/10/26 20:43:49.312.dfm,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadEstado.dfm</Transaction>
+    <Transaction>2023/10/26 20:59:43.147.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadCidade.pas</Transaction>
+    <Transaction>2023/10/26 20:59:43.147.dfm,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadCidade.dfm</Transaction>
+    <Transaction>2023/10/26 21:22:39.246.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadCliente.pas</Transaction>
+    <Transaction>2023/10/26 21:22:39.246.dfm,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UFrmCadCliente.dfm</Transaction>
+    <Transaction>2023/10/26 23:26:55.642.pas,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.pas=C:\Users\Aluno\Desktop\MeuProjeto\teste\UDM.pas</Transaction>
+    <Transaction>2023/10/26 23:26:55.652.dfm,C:\Users\Aluno\Desktop\MeuProjeto\teste\Unit1.dfm=C:\Users\Aluno\Desktop\MeuProjeto\teste\UDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
